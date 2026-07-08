@@ -44,3 +44,9 @@ e SE o desafio pedisse que eu abstraisse (está correto o termo/abordagem?) o li
 
 outra coisa que nao entendi e gostaria que me detalhasse melhor:
 'Quando você for fazer os testes unitários com o Vitest, o JavaScript/TypeScript é flexível o suficiente para "enganar" essa classe concreta e fingir que ela é o Docker real.'
+
+
+
+
+
+npm i @types/dockerode
